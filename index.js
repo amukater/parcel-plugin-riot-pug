@@ -1,3 +1,3 @@
 module.exports = function (bundler) {
-  bundler.addAssetType('tag', require.resolve('./RiotAsset'));
+  bundler.addAssetType('pug', require.resolve('./RiotAsset'));
 };
