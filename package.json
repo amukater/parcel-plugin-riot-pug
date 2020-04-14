@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "parcel-bundler": "^1.12.3",
-    "riot": "^3.13.2",
-    "riot-compiler": "^3.4.0"
+    "pug": "^2.0.4",
+    "riot": "git://github.com/phi-jp/riot.git#4f5be4637bc7488d51774774e3d6f2b7b0f2243a"
   }
 }
